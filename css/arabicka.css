@@ -6,7 +6,7 @@
 }
 body {
     font-family: "Nunito", sans-serif;
-    background-image: url('/img/coffe-beans.jpg');
+    background-image: url('img/coffe-beans.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
